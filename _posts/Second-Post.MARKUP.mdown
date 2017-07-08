@@ -1,1 +1,3 @@
 This is a test!
+Cuteness personified - shown in the screenshot below:
+![My helpful screenshot]({{ https://bydefaultwastaken.github.io }}/SAM_1035.JPG)
